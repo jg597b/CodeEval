@@ -1,0 +1,17 @@
+
+*Fizz Buzz
+*Prime palindrome
+*Sum of primes
+*Reverse words **must be refactored
+*Multiples of a number
+*Bit positions
+*Lowercase **can be reduced 1 line
+*Sum of digits
+*fibonacci series
+*Multiplication tables
+*Sum of Integers from File
+*Odd Numbers -> (1..99).step(2){|n| puts n} 
+*Print the file size in bytes. (must read Ruby-doc/Files)
+*Extract unique list from a sorted list of numbers.
+*Print the intersection of two sets of numbers.
+*Print the position of the rightmost occurrence of a char.
